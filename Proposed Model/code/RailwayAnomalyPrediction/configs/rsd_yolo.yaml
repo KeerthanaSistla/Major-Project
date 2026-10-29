@@ -1,0 +1,11 @@
+model: yolov8n.pt
+imgsz: 320
+epochs: 10
+batch: 16
+device: cpu
+workers: 0
+patience: 5
+seed: 42
+deterministic: true
+project: outputs/yolo
+name: rsd_yolov8n_fast

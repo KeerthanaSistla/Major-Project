@@ -1,0 +1,16 @@
+Creative Commons Attribution 4.0 International License
+
+This dataset is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+The dataset was prepared based on publicly available rail surface defect images downloaded from Roboflow. The downloaded metadata file indicates that the original dataset is licensed under CC BY 4.0. In this repository, the dataset has been reorganized into YOLO format with fixed training, validation, and test splits to support reproducible experiments.
+
+You are free to share and adapt the dataset for research, educational, and other purposes, provided that appropriate credit is given, a link to the license is provided, and any changes made to the dataset are indicated.
+
+License URL:
+https://creativecommons.org/licenses/by/4.0/
+
+If you use this dataset, please cite the associated paper:
+
+RSD-YOLO: A Lightweight Model for Rail Surface Defect Detection
+
+Users should also comply with the license terms of the original Roboflow data source.

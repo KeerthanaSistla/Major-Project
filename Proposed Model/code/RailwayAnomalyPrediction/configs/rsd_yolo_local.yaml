@@ -1,0 +1,9 @@
+path: C:\Keerthana\CBIT\4th year\Major Project\Proposed Model\code\RailwayAnomalyPrediction\data\RSD-YOLO-Dataset-v1.0
+train: images/train
+val: images/val
+test: images/test
+nc: 3
+names:
+- spalling
+- wheel burn
+- squat

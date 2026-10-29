@@ -1,0 +1,2 @@
+observed_delays,minimum_delay,p01,p25,median_delay,mean_delay,p75,p99,maximum_delay,early_arrivals,on_time_arrivals,late_arrivals
+16277315,-120.0,-13.0,3.0,13.0,30.279002341602407,34.0,264.0,720.0,450450,2237725,13589140

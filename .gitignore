@@ -1,0 +1,14 @@
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Large generated datasets
+*.parquet
+
+# Local environment settings
+.env

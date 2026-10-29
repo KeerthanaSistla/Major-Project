@@ -1,0 +1,2 @@
+candidate_pairs,stations,earlier_train_numbers,later_train_numbers,overall_delay_correlation,mean_earlier_delay_min,mean_later_delay_min,median_scheduled_gap_min,median_actual_gap_min
+1146362,30,1649,1657,0.5960568121110821,16.091765951767417,27.12239763704659,35.0,39.0

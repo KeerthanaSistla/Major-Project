@@ -1,0 +1,2 @@
+total_records,unique_train_numbers,unique_stations,distinct_start_dates,earliest_start_date,latest_start_date,usable_arrival_records,usable_departure_records,arrival_timestamp_pairs,departure_timestamp_pairs
+17522150,4826,7752,365,2025-02-08,2026-02-07,16277315,1083527,16277315,1083527

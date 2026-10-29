@@ -1,0 +1,2 @@
+sequence_samples,distinct_trains,distinct_service_dates,target_stations,first_service_date,last_service_date,mean_target_delay_min,median_target_delay_min,early_arrivals,on_time_arrivals,late_arrivals
+11046378,4370,365,7507,2025-02-08,2026-02-07,35.5323745032082,17.0,383153,1243336,9419889
